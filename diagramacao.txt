@@ -1,0 +1,40 @@
+------------------------------------
+|           iPhone                   |
+------------------------------------
+| - reprodutor: ReprodutorMusical   |
+| - telefone: AparelhoTelefonico     |
+| - navegador: NavegadorInternet    |
+------------------------------------
+
+              /\
+              ||
+              \/
+------------------------------------
+|    ReprodutorMusical              |
+------------------------------------
+| + tocar(): void                   |
+| + pausar(): void                  |
+| + selecionarMusica(): void        |
+------------------------------------
+
+              /\
+              ||
+              \/
+------------------------------------
+|    AparelhoTelefonico              |
+------------------------------------
+| + ligar(): void                   |
+| + atender(): void                 |
+| + iniciarCorreioVoz(): void       |
+------------------------------------
+
+              /\
+              ||
+              \/
+------------------------------------
+|   NavegadorInternet               |
+------------------------------------
+| + exibirPagina(): void            |
+| + adicionarNovaAba(): void        |
+| + atualizarPagina(): void         |
+------------------------------------
